@@ -1,3 +1,7 @@
+# Angular Forms
+This repository contains my version of the project resulting from the [Angular Forms](https://app.pluralsight.com/library/courses/angular-forms) course taught by Mark Zamoyta.
+
+
 # PsDemo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5.
